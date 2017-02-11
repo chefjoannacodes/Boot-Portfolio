@@ -16,6 +16,7 @@ div.col-md-3 {
 	margin-right: 8px;
 }
 
+
 body {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 18px;
@@ -30,7 +31,6 @@ body {
 
 .bio-image {
   max-width: 100%;
-  height:auto;
   float: left;
   margin-right: 22px;
   margin-bottom: 22px;
