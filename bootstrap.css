@@ -98,7 +98,6 @@ body {
 .panel-body:last-child {
  margin-right: 0;
 }
-
-.container-portfolio {
-	background-color: blue;
+.contact-form {
+	float: left;
 }
